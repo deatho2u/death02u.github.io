@@ -1431,11 +1431,11 @@ body.menu-is-open {
 .subhead {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  font-size: 1.8rem;
+  font-size: 2.8rem;
   line-height: 1.333;
   text-transform: uppercase;
   letter-spacing: .25rem;
-  color: #793ea5;
+  color: #f70b07;
   margin-top: 0;
   margin-bottom: 3rem;
   position: relative;

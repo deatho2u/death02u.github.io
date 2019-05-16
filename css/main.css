@@ -940,7 +940,7 @@ input[type="button"] {
   cursor: pointer;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: #793ea5;
+  background-color: #f70b07;
   border: .2rem solid #c5c5c5;
 }
 
@@ -2160,7 +2160,7 @@ body.menu-is-open {
   height: 9rem;
   width: 9rem;
   border-radius: 50%;
-  background-color: #793ea5;
+  background-color: #f70b07;
   background-image: url(../images/icons/icon-play.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
@@ -2174,9 +2174,9 @@ body.menu-is-open {
   text-align: center;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 600;
-  font-size: 1.3rem;
+  font-size: 1.9rem;
   line-height: 1;
-  color: #9c9c9c;
+  color: #f70b07;
   text-transform: uppercase;
   letter-spacing: .5rem;
   -webkit-transition: color 0.3s ease-in-out;
@@ -2189,7 +2189,7 @@ body.menu-is-open {
 }
 
 .home-content__video .video-link:hover .video-icon {
-  background-color: #6b3792;
+  background-color: #db0808;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2759,7 +2759,7 @@ html.no-csstransitions .home-content__main {
   font-weight: 700;
   text-align: center;
   color: #FFFFFF;
-  background-color: #793ea5;
+  background-color: #f70b07;
   height: 48px;
   width: 48px;
   line-height: 48px;
